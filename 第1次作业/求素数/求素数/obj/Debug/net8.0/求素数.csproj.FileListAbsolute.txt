@@ -1,0 +1,15 @@
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\bin\Debug\net8.0\求素数.exe
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\bin\Debug\net8.0\求素数.deps.json
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\bin\Debug\net8.0\求素数.runtimeconfig.json
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\bin\Debug\net8.0\求素数.dll
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\bin\Debug\net8.0\求素数.pdb
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.AssemblyInfoInputs.cache
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.AssemblyInfo.cs
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.csproj.CoreCompileInputs.cache
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.sourcelink.json
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.dll
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\refint\求素数.dll
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.pdb
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\求素数.genruntimeconfig.cache
+C:\Users\ying\Desktop\C#作业\C_Sharp_homeworks\第1次作业\求素数\求素数\obj\Debug\net8.0\ref\求素数.dll

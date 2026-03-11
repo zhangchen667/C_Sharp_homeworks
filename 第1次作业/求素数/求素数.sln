@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "求素数", "求素数\求素数.csproj", "{F9BAB271-A722-461E-9722-38D4CB8459EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BAB271-A722-461E-9722-38D4CB8459EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BAB271-A722-461E-9722-38D4CB8459EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BAB271-A722-461E-9722-38D4CB8459EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BAB271-A722-461E-9722-38D4CB8459EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC74D186-B585-4A8B-9B79-DC19946849F3}
+	EndGlobalSection
+EndGlobal
