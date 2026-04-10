@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(msbuild WindowsFormsApp1.sln)",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" WindowsFormsApp1.sln)",
+      "Read(//c/Program Files/Microsoft Visual Studio/**)",
+      "Read(//c/Program Files \\(x86\\)/Microsoft Visual Studio//**)",
+      "Bash(/c/Program Files/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe:*)"
+    ]
+  }
+}
